@@ -1,0 +1,2 @@
+color: #ca3b64;
+font-family: "Arizonia",cursive;
